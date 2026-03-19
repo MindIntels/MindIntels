@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MindIntels
-- 👀 I’m interested in ccomputer vision
-- 🌱 I’m currently learning Stable diffusion, NERF
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Large Language Models,  Autonomous Agents
+- 🌱 I’m currently learning VLA、Embodied Foundation Model、world model
+- 💞️ I’m looking to collaborate on 
 - 📫 mind_intel198@163.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
